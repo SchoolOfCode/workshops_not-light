@@ -7,3 +7,6 @@ Your challenge is to create a whole webpage in just 15 minutes. Too easy you say
 - you cannot preview your work until the very end of the task
 
 Good luck 😃
+
+#
+<img src="Not Light.png"/>
